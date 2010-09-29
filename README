@@ -1,0 +1,14 @@
+Store the content of the Studio Dorbel main portal.
+
+1. Go to Special:AllPages
+2. Copy all the page names from the namespaces you want 
+3. Go to Special:Export
+4. Paste the page names you want to export.
+
+content.xml should contain content (Main) and Help namespaces
+
+logic.xml should contain logic (if any)
+
+design.xml shoudl contain design (MediaWiki namespace)
+
+

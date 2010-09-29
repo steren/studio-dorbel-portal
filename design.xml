@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.3/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.3/ http://www.mediawiki.org/xml/export-0.3.xsd" version="0.3" xml:lang="en">
+  <siteinfo>
+    <sitename>Studio</sitename>
+    <base>http://studio.steren.fr/wiki/index.php/Main_Page</base>
+    <generator>MediaWiki 1.13.3</generator>
+    <case>first-letter</case>
+      <namespaces>
+      <namespace key="-2">Media</namespace>
+      <namespace key="-1">Special</namespace>
+      <namespace key="0" />
+      <namespace key="1">Talk</namespace>
+      <namespace key="2">User</namespace>
+      <namespace key="3">User talk</namespace>
+      <namespace key="4">Studio</namespace>
+      <namespace key="5">Studio talk</namespace>
+      <namespace key="6">Image</namespace>
+      <namespace key="7">Image talk</namespace>
+      <namespace key="8">MediaWiki</namespace>
+      <namespace key="9">MediaWiki talk</namespace>
+      <namespace key="10">Template</namespace>
+      <namespace key="11">Template talk</namespace>
+      <namespace key="12">Help</namespace>
+      <namespace key="13">Help talk</namespace>
+      <namespace key="14">Category</namespace>
+      <namespace key="15">Category talk</namespace>
+      <namespace key="102">Property</namespace>
+      <namespace key="103">Property talk</namespace>
+      <namespace key="104">Type</namespace>
+      <namespace key="105">Type talk</namespace>
+      <namespace key="106">Form</namespace>
+      <namespace key="107">Form talk</namespace>
+      <namespace key="108">Concept</namespace>
+      <namespace key="109">Concept talk</namespace>
+      <namespace key="170">Filter</namespace>
+      <namespace key="171">Filter talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Sidebar</title>
+    <id>6</id>
+    <revision>
+      <id>33</id>
+      <timestamp>2009-05-27T19:23:52Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve">* navigation
+** mainpage|mainpage-description
+** portal-url|portal
+** helppage|help
+
+*Projects
+** {{SERVER}}/capoda2|capoda2
+
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,396 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.3/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.3/ http://www.mediawiki.org/xml/export-0.3.xsd" version="0.3" xml:lang="en">
+  <siteinfo>
+    <sitename>Studio</sitename>
+    <base>http://studio.steren.fr/wiki/index.php/Main_Page</base>
+    <generator>MediaWiki 1.13.3</generator>
+    <case>first-letter</case>
+      <namespaces>
+      <namespace key="-2">Media</namespace>
+      <namespace key="-1">Special</namespace>
+      <namespace key="0" />
+      <namespace key="1">Talk</namespace>
+      <namespace key="2">User</namespace>
+      <namespace key="3">User talk</namespace>
+      <namespace key="4">Studio</namespace>
+      <namespace key="5">Studio talk</namespace>
+      <namespace key="6">Image</namespace>
+      <namespace key="7">Image talk</namespace>
+      <namespace key="8">MediaWiki</namespace>
+      <namespace key="9">MediaWiki talk</namespace>
+      <namespace key="10">Template</namespace>
+      <namespace key="11">Template talk</namespace>
+      <namespace key="12">Help</namespace>
+      <namespace key="13">Help talk</namespace>
+      <namespace key="14">Category</namespace>
+      <namespace key="15">Category talk</namespace>
+      <namespace key="102">Property</namespace>
+      <namespace key="103">Property talk</namespace>
+      <namespace key="104">Type</namespace>
+      <namespace key="105">Type talk</namespace>
+      <namespace key="106">Form</namespace>
+      <namespace key="107">Form talk</namespace>
+      <namespace key="108">Concept</namespace>
+      <namespace key="109">Concept talk</namespace>
+      <namespace key="170">Filter</namespace>
+      <namespace key="171">Filter talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Help</title>
+    <id>8</id>
+    <revision>
+      <id>321</id>
+      <timestamp>2010-06-30T10:30:44Z</timestamp>
+      <contributor>
+        <username>Redirect fixer</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Help:Contents]] has been moved, it is now a redirect to [[Help:Content]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Help:Content]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas</title>
+    <id>9</id>
+    <revision>
+      <id>342</id>
+      <timestamp>2010-07-01T22:19:50Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve">Here talk about your new ideas to enhance Studio Dorbel
+
+[[Ideas:Better file sharing tool]]
+
+[[Ideas:Online Sketch Tool]]
+
+[[Ideas:Blender-aid]]
+
+[[Ideas:Blender-Thumbnails]]
+
+[[Ideas:SVN explorer]]
+
+[[Ideas:Renderfarm]]
+
+[[Ideas:Drumbeat WebMadeMovies]]
+
+[[Ideas:Online Sequence Editor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Better file sharing tool</title>
+    <id>15</id>
+    <revision>
+      <id>259</id>
+      <timestamp>2010-06-12T22:00:55Z</timestamp>
+      <contributor>
+        <ip>77.204.41.34</ip>
+      </contributor>
+      <comment>New page: SVN has been created for source code, for production files, needs are different.  A project that needs to be watch is [http://www.sparkleshare.org/ SparkleShare].</comment>
+      <text xml:space="preserve">SVN has been created for source code, for production files, needs are different.
+
+A project that needs to be watch is [http://www.sparkleshare.org/ SparkleShare].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Blender-Thumbnails</title>
+    <id>17</id>
+    <revision>
+      <id>308</id>
+      <timestamp>2010-06-29T21:15:15Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve">After a page has been linked to a file, display a thumbnail of the content of the .blend.
+
+[http://code.google.com/p/blender-thumbnail blender-thumbnail]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Blender-aid</title>
+    <id>11</id>
+    <revision>
+      <id>256</id>
+      <timestamp>2010-06-10T15:11:25Z</timestamp>
+      <contributor>
+        <ip>119.111.124.194</ip>
+      </contributor>
+      <text xml:space="preserve">Install [http://www.jouercasino.eu/ casino en ligne] and [http://sidedish.atmind.nl blender-aid] on the server.
+
+Then provide automatic links to pages of the wiki.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Drumbeat WebMadeMovies</title>
+    <id>24</id>
+    <revision>
+      <id>334</id>
+      <timestamp>2010-07-01T09:36:00Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: talk with people behind http://www.drumbeat.org/project/webmademovie</comment>
+      <text xml:space="preserve">talk with people behind http://www.drumbeat.org/project/webmademovie</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Online Sequence Editor</title>
+    <id>25</id>
+    <revision>
+      <id>343</id>
+      <timestamp>2010-07-01T22:20:22Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: Check with the open source [http://corp.kaltura.com/ Kaltura]</comment>
+      <text xml:space="preserve">Check with the open source [http://corp.kaltura.com/ Kaltura]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Online Sketch Tool</title>
+    <id>10</id>
+    <revision>
+      <id>48</id>
+      <timestamp>2009-10-06T12:43:05Z</timestamp>
+      <contributor>
+        <ip>87.88.48.155</ip>
+      </contributor>
+      <comment>New page: Use [http://sketch.odopod.com] ?</comment>
+      <text xml:space="preserve">Use [http://sketch.odopod.com] ?</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ideas:Renderfarm</title>
+    <id>18</id>
+    <revision>
+      <id>309</id>
+      <timestamp>2010-06-29T21:17:25Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: Talk to the guys behind [http://www.renderfarm.fi/ renderfarm.fi]</comment>
+      <text xml:space="preserve">Talk to the guys behind [http://www.renderfarm.fi/ renderfarm.fi]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Main Page</title>
+    <id>1</id>
+    <revision>
+      <id>4631</id>
+      <timestamp>2010-08-12T21:35:53Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>Back to version before the hack attack</comment>
+      <text xml:space="preserve">Wiki of the Studio Dorbel portal (this wiki is not a movie project)
+
+=What is Studio Dorbel?=
+
+Studio Dorbel is an online collaborative studio aiming at making open short movies.
+
+The project is open to everyone and entirely online.
+
+Participants from all over the world collaborate around computer generated movie projects, everyone brings his talent.
+
+Only free software and open standards are used, any resource, including the final result, is licensed under CC-BY.
+
+It can be considered as the Wikipedia of computer generated short movies.
+
+=News=
+
+''here news from the Studio Dorbel portal''
+
+=Current Projects= 
+* [{{SERVER}}/capoda2 CAPODA 2]
+
+=Community=
+
+==Organisation==
+A node on [http://studiodorbel.status.net/ status.net] has been set up to facilitate communication. It's a microblogging site dedicated to Studio Dorbel (a twitter, but with messages only concerning our project). Create an account (or get federated?).
+
+==How does it work?==
+STUDIO DORBEL is based on a flexible [[data structure]].
+If you need Help when using it, please refer to the See [[Help:Contents|Help]] pages.
+
+Open source [[tools]] are used to make the movies.
+
+Learn more about the [[technology]] behind the plateform.
+==Contribute==
+
+===What needs to be done?===
+Check the [[TODO]] page.
+
+===Decisions===
+* [[Version control]] system.
+
+===Have ideas to improve Studio Dorbel?===
+Please expose them in the [[Ideas]] section.
+
+===Important===
+If you modify your project Templates and think your modifications may be useful for other projects, see the page [[Help:Export Your Templates]]
+
+__NOTOC__ __NOEDITSECTION__</text>
+    </revision>
+  </page>
+  <page>
+    <title>TODO</title>
+    <id>19</id>
+    <revision>
+      <id>316</id>
+      <timestamp>2010-06-30T10:28:29Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: Needed before announcing the website : * Update MW and SMW * Documentation (with illustrations) of the concept of the project * Continue the Semantic MW Data structure and pages for projec...</comment>
+      <text xml:space="preserve">Needed before announcing the website :
+* Update MW and SMW
+* Documentation (with illustrations) of the concept of the project
+* Continue the Semantic MW Data structure and pages for project
+* Website design, usability improvement
+* Movie files architecture
+* Sandbox + examples using content from Big Buck Bunny
+* Initial Community Building
+
+Additional tasks, not needed to talk about the project :
+* Installation and configuration of [http://sidedish.atmind.nl/ Blender-aid]
+* Link wiki pages to files in the SVN (using a MW extension)
+* Play rendered videos on the website (using HTML5 with a MW extension)
+* Display thumbnails of .blend files on the wiki pages (using a lib).</text>
+    </revision>
+  </page>
+  <page>
+    <title>Technology</title>
+    <id>23</id>
+    <revision>
+      <id>325</id>
+      <timestamp>2010-06-30T12:50:06Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: MediaWiki is used as a wiki engine to provide the basics of the collaborative website.  Semantic MediaWiki is used because it allows to work on a flexible data structure. It add forms and ...</comment>
+      <text xml:space="preserve">MediaWiki is used as a wiki engine to provide the basics of the collaborative website.
+
+Semantic MediaWiki is used because it allows to work on a flexible data structure. It add forms and semantic power to MediaWiki, this is perfect for manipulating movie data.
+
+Movie files are versionned into a [[Version control]] system.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Tools</title>
+    <id>22</id>
+    <revision>
+      <id>324</id>
+      <timestamp>2010-06-30T12:41:24Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>New page: The main artistic tool is [http://www.blender.org Blender]. Blender files are object oriented, which is fully adapted to this kind of project, for example, a scene file can link to two cha...</comment>
+      <text xml:space="preserve">The main artistic tool is [http://www.blender.org Blender].
+Blender files are object oriented, which is fully adapted to this kind of project, for example, a scene file can link to two character files, data is not copied, but linked.
+
+2D files will be created using GIMP, Inkscape, MyPaint for example
+
+Music will be mixed using Ardour
+
+online libraries of assets (music, soud effects, textures, 3D objects...)</text>
+    </revision>
+  </page>
+  <page>
+    <title>Version control</title>
+    <id>16</id>
+    <revision>
+      <id>287</id>
+      <timestamp>2010-06-26T17:53:17Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Hosting */</comment>
+      <text xml:space="preserve">=Choice=
+The chosen version control system has to be easy to use.
+
+* For most people, a decentralized workflow is too complicated. The version control system has to allow centralized workflow (such as SVN).
+* It needs to have a User Interface on Windows, Mac and Linux.
+
+=Hosting=
+External hosting seams to be a better solution than self hosting, for costs and administration reasons. (to be discussed)
+
+The main point is that data size can be very big.
+
+==[http://code.google.com/hosting/ Google Code Project Hosting]==
+
+SVN and Mercurial
+
+[http://code.google.com/p/support/wiki/FAQ#Hosted_Tools there are limits] ([http://groups.google.com/group/google-code-hosting/browse_thread/thread/3dda14faed174a47?pli=1 apparently] '''1GB'''). but can be freely increased if &quot;(1) the request is reasonable, (2) you're not doing ridiculous things that waste disk space.&quot;
+
+==[http://github.com/ Github]==
+Git
+
+no limit for free (GitHub does not have any hard storage limits. We have soft limits for each plan to prevent abuse).
+
+==[http://bitbucket.org/plans bitBucket]==
+Mercurial 
+
+1 GB limit for free
+
+==[https://launchpad.net Launchpad]==
+Bazaaar
+other ?</text>
+    </revision>
+  </page>
+  <page>
+    <title>Working with SVN</title>
+    <id>4</id>
+    <revision>
+      <id>253</id>
+      <timestamp>2010-06-10T12:36:25Z</timestamp>
+      <contributor>
+        <username>Steren</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve">The project files are versionned using a tool called SVN.
+
+You can download the files of a project on your machine.
+You can modify them locally but in order to share them with the other members, you have to get an authorization (login and passowrd). 
+
+=On Windows=
+==Installation==
+Download and install [http://tortoisesvn.tigris.org/ Tortoise SVN].
+
+==Usage==
+===Get the files===
+
+===Stay up to date===
+
+===Commit your changes===
+
+=On Ubuntu, Debian and similar=
+==Installation==
+ sudo apt-get install subversion
+
+(Optional) User Interface
+[http://www.rabbitvcs.org/ RabbitVCS] brings an integration of SVN features into the NAutilus file manager.
+
+==Usage==
+===get the files===
+ cd ***************
+ svn checkout ****************
+
+===Stay up to date===
+at the root of your checkout :
+ svn up
+
+===Commit your changes===
+ svn commit -m &quot;Enter here a clear and short message of your changes&quot;</text>
+    </revision>
+  </page>
+</mediawiki>
