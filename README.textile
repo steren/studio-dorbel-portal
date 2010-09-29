@@ -1,6 +1,7 @@
 These files keep track of the content of the main portal of Studio Dorbel
 
 h1. Server configuration
+
 server-conf/*.php are settings for each wiki.
 
 Factor out as much conf as possible into LocalSettings.php
